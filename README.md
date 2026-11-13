@@ -34,3 +34,7 @@ npm run preview
 ```
 
 Open the preview, edit the sample, reload to test persistence, and export a PDF with a math expression and a code block.
+
+## License
+
+The project code is available under the [MIT License](LICENSE).
